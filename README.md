@@ -2,15 +2,21 @@
 ---
 
 
+![Image](grocerybag.png)
+
 > git clone https://github.com/heyprashant/The-Grocery-bag.git
+
 > cd recipe-app
+
 > npm install
+
 > ng serve
 
 To Log In to example project 
 
 > User :      admin@admin.com
-> password:   123456
+
+> password:   admin12345
 
 > Create a src/app/services/.configuation file 
 > add a FIREBASE AUTHENTICATION config file which you can obtain when you create a firebase app auth account.
