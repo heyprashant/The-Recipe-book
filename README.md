@@ -2,7 +2,7 @@
 ---
 
 
-![Image](grocerybag.png)
+![Image](project.png)
 
 > git clone https://github.com/heyprashant/The-Grocery-bag.git
 
@@ -19,7 +19,9 @@ To Log In to example project
 > password:   admin12345
 
 > Create a src/app/services/.configuation file 
+
 > add a FIREBASE AUTHENTICATION config file which you can obtain when you create a firebase app auth account.
+
 > example code can be found in the configuration.example.ts file
 
 ## About App
@@ -29,33 +31,33 @@ A comprehensive Angular application covering all of the Angular 4 updates. The p
 
 ## Key Features
 
-Components
+* Components
 
-AuthGuards
+* AuthGuards
 
-Firebase Authentication
+* Firebase Authentication
 
-Personalisation
+* Personalisation
 
-Services
+* Services
 
-Forms both Reactive and Template
+* Forms both Reactive and Template
 
-Http requests
+* Http requests
 
-Observables
+* Observables
 
-Routing ActivatedRoutes and Params
+* Routing ActivatedRoutes and Params
 
-Input and Output decorators
+* Input and Output decorators
 
-CRUD operations to recipes and shopping list
+* CRUD operations to recipes and shopping list
 
-Database intergration
+* Database intergration
 
-Models
+* Models
 
-Creating a directive
+* Creating a directive
 
 ## Development server
 
