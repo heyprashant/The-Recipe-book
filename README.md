@@ -1,6 +1,55 @@
-# PROJECT
+# The-Grocery-bag
+---
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
+
+> git clone https://github.com/heyprashant/The-Grocery-bag.git
+> cd recipe-app
+> npm install
+> ng serve
+
+To Log In to example project 
+
+> User :      admin@admin.com
+> password:   123456
+
+> Create a src/app/services/.configuation file 
+> add a FIREBASE AUTHENTICATION config file which you can obtain when you create a firebase app auth account.
+> example code can be found in the configuration.example.ts file
+
+## About App
+
+A comprehensive Angular application covering all of the Angular 4 updates. The project focuses on the key features and skills required to successfully implement a modern angular application. The code is commented for easy reference and links below provide additional resources. Fully functional CRUD operations with http access using RxJs observables.
+
+
+## Key Features
+
+Components
+
+AuthGuards
+
+Firebase Authentication
+
+Personalisation
+
+Services
+
+Forms both Reactive and Template
+
+Http requests
+
+Observables
+
+Routing ActivatedRoutes and Params
+
+Input and Output decorators
+
+CRUD operations to recipes and shopping list
+
+Database intergration
+
+Models
+
+Creating a directive
 
 ## Development server
 
@@ -13,14 +62,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
