@@ -2,7 +2,6 @@
 ---
 
 
-![Image](grocerybag.png)
 
 > git clone https://github.com/heyprashant/The-Grocery-bag.git
 
