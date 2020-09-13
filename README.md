@@ -25,7 +25,7 @@ To Log In to example project
 
 ## About App
 
-A comprehensive Angular application covering all of the Angular 4 updates. The project focuses on the key features and skills required to successfully implement a modern angular application. The code is commented for easy reference and links below provide additional resources. Fully functional CRUD operations with http access using RxJs observables.
+A comprehensive Angular application covering all of the Angular 6+ concepts. The project focuses on the key features and skills required to successfully implement a modern angular application. The code is commented for easy reference and links below provide additional resources. Fully functional CRUD operations with http access using RxJs observables.
 
 
 ## Key Features
