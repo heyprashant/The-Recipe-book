@@ -1,9 +1,9 @@
-# The-Recipe-book
+# The-Recipe-book | https://project-30b3d.firebaseapp.com
 ---
 
 
 
-> git clone https://github.com/heyprashant/The-Grocery-bag.git
+> git clone https://github.com/heyprashant/The-Recipe-book
 
 > cd recipe-app
 
