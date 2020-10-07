@@ -1,8 +1,7 @@
 # [The-Recipe-book](https://project-30b3d.firebaseapp.com)
----
-## About 
-
 A comprehensive Angular application covering all of the Angular 6+ concepts. The project focuses on the key features and skills required to successfully implement a modern angular application. The code is commented for easy reference and links below provide additional resources. Fully functional CRUD operations with http access using RxJs observables.
+
+[Live Demo](https://project-30b3d.firebaseapp.com)
 
 ## Installation
 ```
@@ -10,18 +9,15 @@ cd recipe-app
 npm install
 ng serve
 ```
-### Usage -
-> for login you can use below combination-
+## Usage 
+ for login you can use below credentials
 ```
 User :      admin@admin.com
 password:   admin12345
 ```
- After Login 
-``` 
-click on "Manage"
-Click on Fetch Data
-```
-to fetch data from the firebase backend.
+ After Login, To fetch data from the firebase backend follow below steps. 
+
+Click on `Manage` -> `Fetch Data`
 
 ## Key Features
 
